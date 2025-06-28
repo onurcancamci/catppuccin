@@ -25,4 +25,8 @@ return {
 	base = "#24273a",
 	mantle = "#1e2030",
 	crust = "#181926",
+
+	-- Basic Concepts
+	func = "blue",
+	comment = "overlay2",
 }
